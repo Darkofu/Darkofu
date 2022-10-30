@@ -7,7 +7,7 @@
 
 - 🏢 A la recherche d'un **contrat d'apprentissage pour l'année 2022-2023 !**
 
-- ⚙ Durée : **12 mois**
+- ⚙ Durée : **12 mois** | Rythme d'alternance : **1 semaine à l'école & 2 semaines en entreprise** | Lieu : **Île-de-France**
 
 - 💬 Posez-moi des questions sur ? **Mes passions, ce que je souhaite faire dans la vie :)**
 
