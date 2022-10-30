@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy TO !</h1>
 <h3 align="center">Futur apprenti Développeur Informatique</h3>
 
-- 👨‍🎓 Je suis actuellement ? **Étudiant en Bachelor Développement & Data à EFREI Paris**
+- 👨‍🎓 Je suis actuellement ? **Étudiant en Bachelor 3 Développement & Data en alternance à EFREI Paris**
 
 - 🌱 Je suis en train d'apprendre ? **Les langages JavaScript avec Node.JS et Java sur Android Studio !**
 
