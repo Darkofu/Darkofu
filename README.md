@@ -15,7 +15,7 @@
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeremy-to" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremy-to" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeremy-to" target="LinkedIn"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremy-to" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Langages & Outils :</h3>
