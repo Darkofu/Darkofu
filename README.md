@@ -3,7 +3,9 @@
 
 - 👨‍🎓 Je suis actuellement ? **Étudiant en Bachelor 3 Développement & Data en alternance à EFREI Paris**
 
-- 🌱 Je suis en train d'apprendre ? **Les langages JavaScript avec Node.JS et Java sur Android Studio !**
+- 👨‍🎓 Par la suite ? **Continuer en Mastère Développeur Full Stack en alternance à EFREI Paris également !**
+
+- 🌱 Je suis en train d'apprendre ou appronfondir ? **Les langages web (HTML & CSS), partie Back-End (JS, Python, Java) !**
 
 - 🏢 A la recherche d'un **contrat d'apprentissage pour l'année 2022-2023 !**
 
