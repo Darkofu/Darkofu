@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy TO !</h1>
-<h3 align="center">Futur apprenti Développeur Informatique</h3>
+<h3 align="center">Apprenti Développeur Informatique</h3>
 
 - 👨‍🎓 Je suis actuellement ? **Étudiant en Bachelor 3 Développement & Data en alternance à EFREI Paris**
 
@@ -7,7 +7,7 @@
 
 - 🌱 Je suis en train d'apprendre ou appronfondir ? **Les langages web (HTML & CSS), partie Back-End (JS, Python, Java) !**
 
-- 🏢 A la recherche d'un **contrat d'apprentissage pour l'année 2022-2023 !**
+- 🏢 Ne suis plus à la recherche d'un **contrat d'apprentissage pour l'année 2022-2023 !**
 
 - ⚙ Durée : **12 mois** | Rythme d'alternance : **1 semaine à l'école & 2 semaines en entreprise** | Lieu : **Île-de-France**
 
