@@ -3,13 +3,9 @@
 
 - 👨‍🎓 Je suis actuellement ? **Étudiant en Bachelor 3 Développement & Data en alternance à EFREI Paris**
 
-- 👨‍🎓 Par la suite ? **Continuer en Mastère Développeur Full Stack ou cycle d'ingénieur en alternance à EFREI Paris également !**
+- 👨‍🎓 Par la suite ? **Continuer en Master Informatique - Parcours Systèmes et Applications Réparties à la Sorbonne Université !**
 
 - 🌱 Je suis en train d'apprendre ou appronfondir ? **Le langage web (React), partie Back-End (Node.JS) !**
-
-- 🏢 Ne suis plus à la recherche d'un **contrat d'apprentissage pour l'année 2022-2023 !**
-
-- ⚙ Durée : **12 mois** | Rythme d'alternance : **1 semaine à l'école & 2 semaines en entreprise** | Lieu : **Île-de-France**
 
 - 💬 Posez-moi des questions sur ? **Mes passions, ce que je souhaite faire dans la vie :)**
 
