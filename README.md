@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy TO !</h1>
-<h3 align="center">Apprenti Développeur Informatique</h3>
+<h3 align="center">Apprenti Développeur Full Stack</h3>
 
 - 👨‍🎓 Je suis actuellement ? **Étudiant en Bachelor 3 Développement & Data en alternance à EFREI Paris**
 
