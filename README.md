@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy TO !</h1>
-<h3 align="center">Étudiant en Master 1 Informatique avec un parcours SAR à la Sorbonne Université</h3>
+<h3 align="center">Étudiant en Master 1 Informatique - SAR à la Sorbonne Université</h3>
 
 - 👨‍🎓 Je suis actuellement ? **Étudiant en Master Informatique - Parcours Systèmes et Applications Réparties à la Sorbonne Université**
 
