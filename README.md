@@ -1,9 +1,9 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy TO !</h1>
-<h3 align="center">Apprenti Développeur Full Stack</h3>
+<h3 align="center">Étudiant en Master 1 Informatique avec un parcours SAR à la Sorbonne Université</h3>
 
-- 👨‍🎓 Je suis actuellement ? **Étudiant en Bachelor 3 Développement & Data en alternance à EFREI Paris**
+- 👨‍🎓 Je suis actuellement ? **Étudiant en Master Informatique - Parcours Systèmes et Applications Réparties à la Sorbonne Université**
 
-- 👨‍🎓 Par la suite ? **Continuer en Master Informatique - Parcours Systèmes et Applications Réparties à la Sorbonne Université !**
+- 👨‍🎓 Par la suite ? **Continuer en cycle d'ingénieur par apprentissage à l'EFREI Paris !**
 
 - 🌱 Je suis en train d'apprendre ou appronfondir ? **Le langage web (React), partie Back-End (Node.JS) !**
 
