@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Par la suite ? **Continuer en cycle d'ingénieur par apprentissage à l'EFREI Paris !**
 
-- 🌱 Je suis en train d'apprendre ou appronfondir ? **Le langage web (React), partie Back-End (Node.JS) !**
+- 🌱 Je suis en train d'apprendre ou appronfondir ? **Le langage C++, les algorithmes en informatique et les protocoles réseaux !**
 
 - 💬 Posez-moi des questions sur ? **Mes passions, ce que je souhaite faire dans la vie :)**
 
