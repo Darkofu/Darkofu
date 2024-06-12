@@ -1,11 +1,11 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy TO !</h1>
-<h3 align="center">Étudiant en Master 1 Informatique - SAR à la Sorbonne Université</h3>
+<h3 align="center">Futur étudiant en cycle d'ingénieur informatique à l'ESIEA d'Ivry-sur-Seine</h3>
 
 - 👨‍🎓 Je suis actuellement ? **Étudiant en Master Informatique - Parcours Systèmes et Applications Réparties à la Sorbonne Université**
 
-- 👨‍🎓 Par la suite ? **Continuer en cycle d'ingénieur par apprentissage à l'EFREI Paris !**
+- 👨‍🎓 Par la suite ? **Futur étudiant en cycle d'ingénieur informatique à l'ESIEA d'Ivry-sur-Seine**
 
-- 🌱 Je suis en train d'apprendre ou appronfondir ? **Le langage C++, les algorithmes en informatique et les protocoles réseaux !**
+- 🌱 Je suis en train d'apprendre ou appronfondir ? **Le langage React (Front End), Node.js | Java (Back End) et MySQL pour les bases de données !**
 
 - 💬 Posez-moi des questions sur ? **Mes passions, ce que je souhaite faire dans la vie :)**
 
