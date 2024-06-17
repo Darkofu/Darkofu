@@ -5,7 +5,7 @@
 
 - 🌱 Je suis en train d'apprendre ? **Le langage React (Front End), Node.js | Java (Back End) et MySQL pour les bases de données !**
 
-- 🏢 A la recherche d'un **contrat d'apprentissage d'ingénieur développeur Web**
+- 🏢 A la recherche d'un **contrat d'apprentissage d'Ingénieur Développeur Web**
 
 - ⚙ Durée : **36 mois**
 
