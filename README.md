@@ -1,13 +1,15 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy TO !</h1>
-<h3 align="center"></h3>
+<h3 align="center">Apprenti Ingénieur d'études et développement et étudiant à l'ESIEA</h3>
 
 - 👨‍🎓 Je suis actuellement ? **Étudiant en cycle d'ingénieur informatique à l'ESIEA d'Ivry-sur-Seine**
 
 - 🌱 Je suis en train d'apprendre ? **Le langage React (Front End), Node.js | Java (Back End) et MySQL pour les bases de données !**
 
-- 🏢 A la recherche d'un **contrat d'apprentissage d'Ingénieur Développeur Web**
+- 🏢 Quel entreprise pour l'alternance ? **Crédit Agricole Personal Finance et Mobility**
 
 - ⚙ Durée : **36 mois**
+
+- 👨‍💻 Mon portfolio ? [https://www.jeremy-to.tech](https://www.jeremy-to.tech)
 
 - 💬 Posez-moi des questions sur ? **Mes passions, ce que je souhaite faire dans la vie :)**
 
